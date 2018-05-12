@@ -13,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/George_Alfred_Lawrence
 description: Experiences of an Englishman who was captured while attempting to join
   the Confederate army.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19705#Border-and-Bastille
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2006-11-03'
 gutenberg_type: Text
