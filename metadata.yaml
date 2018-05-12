@@ -1,0 +1,31 @@
+_repo: Border-and-Bastille_19705
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lawrence, George A. (George Alfred)
+    birthdate: 1827
+    deathdate: 1876
+    gutenberg_agent_id: '7126'
+    url: http://www.gutenberg.org/2009/agents/7126
+    wikipedia: http://en.wikipedia.org/wiki/George_Alfred_Lawrence
+description: Experiences of an Englishman who was captured while attempting to join
+  the Confederate army.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2006-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Prisoners and prisons'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'E456'
+title: Border and Bastille
+url: http://www.gutenberg.org/ebooks/19705
